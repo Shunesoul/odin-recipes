@@ -3,4 +3,15 @@
     font-weight: bold;
     text-align: center;
   }
-  
+.alert-image{
+  text-align: center;
+}
+.alert-return {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: right;
+}
+.alert-ingredients {
+    color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
